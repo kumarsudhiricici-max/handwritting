@@ -1,0 +1,37 @@
+{
+  "best_model": "SVM",
+  "test_subjects": 4,
+  "train_subjects": 12,
+  "test_images": 14,
+  "train_images": 58,
+  "roc_auc_95ci": [
+    0.13333333333333333,
+    0.8775819418676559
+  ],
+  "feature_names": [
+    "ink_density",
+    "aspect_ratio",
+    "bbox_fill_ratio",
+    "contour_area_ratio",
+    "perimeter_norm",
+    "centroid_offset",
+    "radial_mean",
+    "radial_std",
+    "radial_cv",
+    "radial_range",
+    "radial_slope",
+    "angular_coverage",
+    "turning_mean",
+    "turning_std",
+    "turning_abs_mean",
+    "width_mean",
+    "width_std",
+    "width_cv",
+    "x_spread",
+    "y_spread",
+    "x_skew",
+    "y_skew",
+    "x_kurtosis",
+    "y_kurtosis"
+  ]
+}

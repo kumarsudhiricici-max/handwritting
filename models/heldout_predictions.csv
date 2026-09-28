@@ -1,0 +1,15 @@
+path,subject,label,pred,score
+C:\Users\CT-WORK\AppData\Local\Temp\tmp5tb6ntez\data\data\control\V01HE02.png,V01,0,1,0.49021761389783036
+C:\Users\CT-WORK\AppData\Local\Temp\tmp5tb6ntez\data\data\control\V01HE03.png,V01,0,1,0.5253784508795347
+C:\Users\CT-WORK\AppData\Local\Temp\tmp5tb6ntez\data\data\control\V02HE02.png,V02,0,0,0.4696302218463723
+C:\Users\CT-WORK\AppData\Local\Temp\tmp5tb6ntez\data\data\control\V02HE03.png,V02,0,0,0.4394314428401344
+C:\Users\CT-WORK\AppData\Local\Temp\tmp5tb6ntez\data\data\control\V06HE02.png,V06,0,1,0.5283105833831998
+C:\Users\CT-WORK\AppData\Local\Temp\tmp5tb6ntez\data\data\control\V06HE03.png,V06,0,0,0.46536052349675877
+C:\Users\CT-WORK\AppData\Local\Temp\tmp5tb6ntez\data\data\parkinson\V01PE02.png,V01,1,1,0.4800983266423752
+C:\Users\CT-WORK\AppData\Local\Temp\tmp5tb6ntez\data\data\parkinson\V01PE03.png,V01,1,1,0.47871272745811577
+C:\Users\CT-WORK\AppData\Local\Temp\tmp5tb6ntez\data\data\parkinson\V02PE02.png,V02,1,0,0.4680564741966224
+C:\Users\CT-WORK\AppData\Local\Temp\tmp5tb6ntez\data\data\parkinson\V02PE03.png,V02,1,0,0.4504584173346514
+C:\Users\CT-WORK\AppData\Local\Temp\tmp5tb6ntez\data\data\parkinson\V06PE02.png,V06,1,1,0.4932851128945056
+C:\Users\CT-WORK\AppData\Local\Temp\tmp5tb6ntez\data\data\parkinson\V06PE03.png,V06,1,0,0.47060702802904814
+C:\Users\CT-WORK\AppData\Local\Temp\tmp5tb6ntez\data\data\parkinson\V15PE02.png,V15,1,1,0.4938855595345346
+C:\Users\CT-WORK\AppData\Local\Temp\tmp5tb6ntez\data\data\parkinson\V15PE03.png,V15,1,1,0.511214740680079
